@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dusanw
 - 👀 I’m interested in ... web development and graphics
-- 🌱 I’m currently learning ... javascript
+- 🌱 I’m currently learning ... Full Stack Engineer at CodeAcademy
 - 💞️ I’m looking to collaborate on ... websites
 - 📫 How to reach me ... customers@cardcasino.sk
 
